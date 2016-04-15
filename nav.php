@@ -10,7 +10,7 @@
       </a>
     </li>
     <li class="a">
-      <a href="courses.php">
+      <a>
         <span class="icon">
           <i aria-hidden="true" class="icon-blog"></i>
         </span>
