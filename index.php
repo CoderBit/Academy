@@ -136,6 +136,8 @@
     </div>
     <hr class="top-space">
 
+    <script src="js/jquery.js"></script>
+
     <!-- Footer -->
     <?php include('footer.php'); ?>
     <!-- /.container -->

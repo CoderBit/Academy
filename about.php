@@ -35,9 +35,7 @@
             </div>
             <div class="col-md-6">
                 <h2>About Academy Maris</h2>
-                <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sed voluptate nihil eum consectetur similique? Consectetur, quod, incidunt, harum nisi dolores delectus reprehenderit voluptatem perferendis dicta dolorem non blanditiis ex fugiat.</p>
-                <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Saepe, magni, aperiam vitae illum voluptatum aut sequi impedit non velit ab ea pariatur sint quidem corporis eveniet. Odit, temporibus reprehenderit dolorum!</p>
-                <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Et, consequuntur, modi mollitia corporis ipsa voluptate corrupti eum ratione ex ea praesentium quibusdam? Aut, in eum facere corrupti necessitatibus perspiciatis quis?</p>
+                <p>Academy Maris offers you an efficient learning experience , whether in learning or refreshing a foreign language or in tutoring . The Academy is located near the university campus and characterized by friendly atmosphere and young , motivated teachers . The teaching takes place in small groups or private lessons , we like to fully adapt to your needs and time possibilities . Our courses will help you thanks to the used intercultural approach and the emphasis put alttäglichen communication , with simple integration in the respective culture .</p>
             </div>
         </div>
         <!-- /.row -->
@@ -108,7 +106,8 @@
         </div>
         <!-- /.row -->
     </div>
-        <hr class="top-space">
+    <hr class="top-space">
+
 
         <!-- Footer -->
    <!-- Footer -->

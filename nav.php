@@ -1,4 +1,4 @@
-<nav id="menu" class="nav">         
+<nav id="cssmenu">         
   <ul>
     <li class="logo">
       <a href="index.php">
@@ -9,36 +9,31 @@
       </div>
       </a>
     </li>
-    <li class="a">
-      <a>
-        <span class="icon">
+    <li class='has-sub'>
+      <a href='about.php' class="nav-pad">
+        <span class="icon"> 
           <i aria-hidden="true" class="icon-blog"></i>
-        </span>
-        <span>Courses</span>
+        </span>Courses
       </a>
-      <ul class="drop-down">
-        <li>
-            <a href="courses.php">Languages</a>
-        </li>
-        <li>
-            <a href="tution.php">Tution</a>
-        </li>
+      <ul>
+         <li><a href='courses.php'>Languages</a>
+         </li>
+         <li><a href='tution.php'>Tution</a>
+         </li>
       </ul>
     </li>
     <li>
-      <a href="about.php">
+      <a href='about.php' class="nav-pad">
         <span class="icon"> 
           <i aria-hidden="true" class="icon-team"></i>
-        </span>
-        <span>About</span>
+        </span>About
       </a>
     </li>
     <li>
-      <a href="contact.php">
-        <span class="icon">
+      <a href='tution.php' class="nav-pad">
+        <span class="icon"> 
           <i aria-hidden="true" class="icon-contact"></i>
-        </span>
-        <span>Contact</span>
+        </span>Tution
       </a>
     </li>
   </ul>

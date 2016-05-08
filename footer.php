@@ -2,7 +2,12 @@
       <div class="row">
         <div class="container">
           <div class="row">
-            <div class="col-md-4">
+          <div class="col-md-3">
+              <h5><a href="courses.php" class="links">Courses</a></h5>
+              <h5><a href="about.php" class="links">About</a></h5>
+              <h5><a href="contact.php" class="links">Contact</a></h5>
+            </div>
+            <div class="col-md-3">
               <h4>PHYSICAL LOCATION</h4>
               <h5>Academy Maris - Blanka Lacmanová</h5>
               <h5>Ernst-Lehmann-Straße 19,</h5>
@@ -11,7 +16,7 @@
               <h5><strong>Email:</strong> info@akademiemaris.de</h5>
               <h5><strong>Phone:</strong> 01520 8220615</h5>
             </div>
-            <div class="col-md-4">
+            <div class="col-md-3">
               <h3>Send us a Message</h3>
               <form name="sentMessage" id="contactForm" novalidate>
                   <div class="control-group form-group">
@@ -36,7 +41,7 @@
                       
               </form>
             </div>
-            <div class="col-md-4">
+            <div class="col-md-3">
               <form name="sentMessage" id="contactForm" novalidate>
                 <div class="control-group form-group">
                   <div class="controls">
