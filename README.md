@@ -1,2 +1,1 @@
-# Academy
-This is a coaching based website
+It is a PHP based coaching based website
